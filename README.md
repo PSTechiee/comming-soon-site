@@ -1,2 +1,1 @@
-# comming-soon-site
-A coming soon website
+# coming-soon-website
